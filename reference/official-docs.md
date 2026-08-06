@@ -4,8 +4,8 @@
 
 ## Claude Desktop、コネクタ、拡張
 
-- デスクトップコネクタとウェブコネクタを使用する時期  
-  https://support.claude.com/ja/articles/11725091-
+- When to use desktop and web connectors  
+  https://support.claude.com/en/articles/11725091-when-to-use-desktop-and-web-connectors
 
 - Use connectors to extend Claude's capabilities  
   https://support.claude.com/en/articles/11176164-use-connectors-to-extend-claude-s-capabilities
